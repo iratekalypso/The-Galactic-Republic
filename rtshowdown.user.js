@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         THE GALACTIC REPUBLIC
 // @namespace    https://discord.gg/thegalacticrepublic
-// @version      1.0
+// @version      1.1
 // @description  Stop RT from their shenagigans and have ALL STAR WARS be in the final 4!
 // @author       kalypso
 // @match        https://editorial.rottentomatoes.com/article/summer-movie-showdown/

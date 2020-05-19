@@ -11,4 +11,4 @@ window.addEventListener('load', function () {
   alert("It's loaded! VOTE VOTE VOTE")
 })
 localStorage.clear();
-setTimeout(function(){ location.reload(); }, 10*1000);
+setTimeout(function(){ location.reload(); }, 20*1000);

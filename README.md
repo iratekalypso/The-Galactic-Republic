@@ -1,6 +1,4 @@
 # The Galactic Republic
-Time to get serious! This is only the beginning!
-
 1- Install https://www.tampermonkey.net/ as an extension on a browser of your choice (Chrome is best for this)
 
 2- Once installed click this link https://github.com/iratekalypso/The-Galactic-Republic/raw/master/rtshowdown.user.js
@@ -9,8 +7,8 @@ Time to get serious! This is only the beginning!
 
 4- Profit???
 
-5- In this early version, you will need to manually click your answers for now.
+Auto CLICKS all STAR WARS Movies!
 
 DEPLOY THE GARRISON!
 
-Be sure to click "Check for userscript updates" occasionally, as we will be pushing a better version shortly!
+Be sure to click "Check for userscript updates" occasionally, for better versions!

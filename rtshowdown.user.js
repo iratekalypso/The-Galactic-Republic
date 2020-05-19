@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         THE GALACTIC REPUBLIC
 // @namespace    https://discord.gg/thegalacticrepublic
-// @version      2.0
+// @version      2.1
 // @description  Stop RT from their shenagigans and have ALL STAR WARS be in the final 4!
-// @author       kalypso AquilaeAnon
+// @author       kalypso, AquilaeAnon
 // @match        https://editorial.rottentomatoes.com/article/summer-movie-showdown/
 // @updateurl    https://github.com/iratekalypso/The-Galactic-Republic/raw/master/rtshowdown.user.js
 // ==/UserScript==
@@ -32,4 +32,4 @@ if(iframe !== null) {let vote_btn = iframe.contentWindow.document.getElementsByT
 }, 8000);
 
 localStorage.clear();
-setTimeout(function(){ location.reload(); }, 10*1000);
+setTimeout(function(){ location.reload(); }, 15*1000);

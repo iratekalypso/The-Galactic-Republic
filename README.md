@@ -5,9 +5,11 @@ Time to get serious! This is only the beginning!
 
 2- Once installed click this link https://github.com/iratekalypso/The-Galactic-Republic/raw/master/rtshowdown.user.js
 
-3-Make sure Tampermonkey is enabled and then go to this link https://editorial.rottentomatoes.com/article/summer-movie-showdown/
+3- Make sure Tampermonkey is enabled and then go to this link https://editorial.rottentomatoes.com/article/summer-movie-showdown/
 
-4-Profit???
+4- Profit???
+
+5- In this early version, you will need to manually click your answers for now.
 
 DEPLOY THE GARRISON!
 

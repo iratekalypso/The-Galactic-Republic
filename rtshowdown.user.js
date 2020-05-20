@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         THE GALACTIC REPUBLIC
 // @namespace    https://discord.gg/thegalacticrepublic
-// @version      3.0
+// @version      3.1
 // @description  WE must revenge ROTS! Updated for Round 5!
 // @author       kalypso, AquilaeAnon
 // @match        https://editorial.rottentomatoes.com/article/summer-movie-showdown/
+// @match        http://editorial.rottentomatoes.com/article/summer-movie-showdown/
 // @updateurl    https://github.com/iratekalypso/The-Galactic-Republic/raw/master/rtshowdown.user.js
 // ==/UserScript==
 setInterval(function(){
